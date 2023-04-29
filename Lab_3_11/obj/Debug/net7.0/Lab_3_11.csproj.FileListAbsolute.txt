@@ -1,0 +1,30 @@
+D:\Язык СИ - лабы\Lab_3_11\Lab_3_11\obj\Debug\net7.0\Lab_3_11.csproj.AssemblyReference.cache
+D:\Язык СИ - лабы\Lab_3_11\Lab_3_11\obj\Debug\net7.0\Lab_3_11.GeneratedMSBuildEditorConfig.editorconfig
+D:\Язык СИ - лабы\Lab_3_11\Lab_3_11\obj\Debug\net7.0\Lab_3_11.AssemblyInfoInputs.cache
+D:\Язык СИ - лабы\Lab_3_11\Lab_3_11\obj\Debug\net7.0\Lab_3_11.AssemblyInfo.cs
+D:\Язык СИ - лабы\Lab_3_11\Lab_3_11\obj\Debug\net7.0\Lab_3_11.csproj.CoreCompileInputs.cache
+D:\Язык СИ - лабы\Lab_3_11\Lab_3_11\bin\Debug\net7.0\Lab_3_11.exe
+D:\Язык СИ - лабы\Lab_3_11\Lab_3_11\bin\Debug\net7.0\Lab_3_11.deps.json
+D:\Язык СИ - лабы\Lab_3_11\Lab_3_11\bin\Debug\net7.0\Lab_3_11.runtimeconfig.json
+D:\Язык СИ - лабы\Lab_3_11\Lab_3_11\bin\Debug\net7.0\Lab_3_11.dll
+D:\Язык СИ - лабы\Lab_3_11\Lab_3_11\bin\Debug\net7.0\Lab_3_11.pdb
+D:\Язык СИ - лабы\Lab_3_11\Lab_3_11\obj\Debug\net7.0\Lab_3_11.dll
+D:\Язык СИ - лабы\Lab_3_11\Lab_3_11\obj\Debug\net7.0\refint\Lab_3_11.dll
+D:\Язык СИ - лабы\Lab_3_11\Lab_3_11\obj\Debug\net7.0\Lab_3_11.pdb
+D:\Язык СИ - лабы\Lab_3_11\Lab_3_11\obj\Debug\net7.0\Lab_3_11.genruntimeconfig.cache
+D:\Язык СИ - лабы\Lab_3_11\Lab_3_11\obj\Debug\net7.0\ref\Lab_3_11.dll
+C:\Users\79610\source\repos\Lab_3_11\Lab_3_11\bin\Debug\net7.0\Lab_3_11.exe
+C:\Users\79610\source\repos\Lab_3_11\Lab_3_11\bin\Debug\net7.0\Lab_3_11.deps.json
+C:\Users\79610\source\repos\Lab_3_11\Lab_3_11\bin\Debug\net7.0\Lab_3_11.runtimeconfig.json
+C:\Users\79610\source\repos\Lab_3_11\Lab_3_11\bin\Debug\net7.0\Lab_3_11.dll
+C:\Users\79610\source\repos\Lab_3_11\Lab_3_11\bin\Debug\net7.0\Lab_3_11.pdb
+C:\Users\79610\source\repos\Lab_3_11\Lab_3_11\obj\Debug\net7.0\Lab_3_11.csproj.AssemblyReference.cache
+C:\Users\79610\source\repos\Lab_3_11\Lab_3_11\obj\Debug\net7.0\Lab_3_11.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\79610\source\repos\Lab_3_11\Lab_3_11\obj\Debug\net7.0\Lab_3_11.AssemblyInfoInputs.cache
+C:\Users\79610\source\repos\Lab_3_11\Lab_3_11\obj\Debug\net7.0\Lab_3_11.AssemblyInfo.cs
+C:\Users\79610\source\repos\Lab_3_11\Lab_3_11\obj\Debug\net7.0\Lab_3_11.csproj.CoreCompileInputs.cache
+C:\Users\79610\source\repos\Lab_3_11\Lab_3_11\obj\Debug\net7.0\Lab_3_11.dll
+C:\Users\79610\source\repos\Lab_3_11\Lab_3_11\obj\Debug\net7.0\refint\Lab_3_11.dll
+C:\Users\79610\source\repos\Lab_3_11\Lab_3_11\obj\Debug\net7.0\Lab_3_11.pdb
+C:\Users\79610\source\repos\Lab_3_11\Lab_3_11\obj\Debug\net7.0\Lab_3_11.genruntimeconfig.cache
+C:\Users\79610\source\repos\Lab_3_11\Lab_3_11\obj\Debug\net7.0\ref\Lab_3_11.dll
