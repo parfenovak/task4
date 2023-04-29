@@ -16,7 +16,7 @@
             Console.WriteLine();
 
 
-            FirstLevel firstLevelCar = new FirstLevel(firstMark, firstEnginePower, firstPlacesNumber);
+            FirstLevel firstLevelCar = new Car(firstMark, firstEnginePower, firstPlacesNumber);
             firstLevelCar.getInfo();
             Console.WriteLine("Качество для машины первого уровня: " + firstLevelCar.countQuality());
 
@@ -30,7 +30,7 @@
             int secondYear = Convert.ToInt32(Console.ReadLine());
             Console.WriteLine();
 
-            SecondLevel secondLevelCar = new SecondLevel(secondMark, secondEnginePower, secondPlacesNumber, secondYear);
+            SecondLevel secondLevelCar = new CarWithYear(secondMark, secondEnginePower, secondPlacesNumber, secondYear);
             secondLevelCar.getInfo();
             Console.WriteLine("Качество для машины второго уровня " + secondLevelCar.countQuality());
         }

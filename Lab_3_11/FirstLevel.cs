@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Lab_3_11
 {
-    internal class FirstLevel
+    internal class Car
     {
         private String mark { get; set; }
 
@@ -14,7 +14,7 @@ namespace Lab_3_11
 
         private int placesNumber { get; set; }
 
-        public FirstLevel(String mark, int enginePower,int placesNumber) 
+        public Car(String mark, int enginePower,int placesNumber) 
         {
             this.mark = mark;
             this.enginePower = enginePower;

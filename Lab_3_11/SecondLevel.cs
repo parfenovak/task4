@@ -6,11 +6,11 @@ using System.Threading.Tasks;
 
 namespace Lab_3_11
 {   
-    internal class SecondLevel : FirstLevel
+    internal class CarWithYear : Car
     {
         private int year { get; set; }
 
-        public SecondLevel(String mark, int enginePower, int placesNumber, int year)
+        public CarWithYear(String mark, int enginePower, int placesNumber, int year)
                 :base(mark,enginePower,placesNumber)
         {
             this.year = year;
